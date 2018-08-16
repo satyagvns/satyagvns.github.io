@@ -1,10 +1,4 @@
-$primaryColor: rgb(30, 7, 114);
-$secondaryColor: #398bb1;
-$headerText: rgb(255, 255, 255);
 
-header{
-    color:#fff;
-}
 body{
     font-family: 'ubuntu', sans-serif !important;
 }
