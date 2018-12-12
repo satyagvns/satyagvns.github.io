@@ -1,6 +1,7 @@
 
 body{
     font-family: 'ubuntu', sans-serif !important;
+    overflow-x: hidden;
 }
 .jumbotron{
     height: 100vh !important;
